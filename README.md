@@ -15,6 +15,6 @@ During the realization of this project two distinct communication protocols were
 6. Python v2.7.
 
 ## Installation
-1. Setup the following file "controller.py","tx.html" with the correct IP address value of your machine
+1. Setup the following file "controller.py", "tx.html" with the correct IP address value of your machine
 2. Launch the two python controller in receive and trasmission side: "controller.py" and "rx_controller.py"
 3. Send a new message with a relative protocol choise through the file "tx.html".
